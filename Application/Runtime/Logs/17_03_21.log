@@ -1,0 +1,50 @@
+[ 2017-03-21T22:52:03+08:00 ]  
+NOTIC: [8] Undefined index: REQUEST_URI E:\wedding\ThinkPHP\Library\Think\Dispatcher.class.php 第 140 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD E:\wedding\ThinkPHP\Library\Think\App.class.php 第 30 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-21T22:52:33+08:00 ]  
+NOTIC: [8] Undefined index: REQUEST_URI E:\wedding\ThinkPHP\Library\Think\Dispatcher.class.php 第 140 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD E:\wedding\ThinkPHP\Library\Think\App.class.php 第 30 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-21T22:52:49+08:00 ]  
+NOTIC: [8] Undefined index: REQUEST_URI E:\wedding\ThinkPHP\Library\Think\Dispatcher.class.php 第 140 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD E:\wedding\ThinkPHP\Library\Think\App.class.php 第 30 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-21T22:53:13+08:00 ]  
+NOTIC: [8] Undefined index: REQUEST_URI E:\wedding\ThinkPHP\Library\Think\Dispatcher.class.php 第 140 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD E:\wedding\ThinkPHP\Library\Think\App.class.php 第 30 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-03-21T22:53:29+08:00 ]  
+NOTIC: [8] Undefined index: REQUEST_URI E:\wedding\ThinkPHP\Library\Think\Dispatcher.class.php 第 140 行.
+NOTIC: [8] Undefined index: REQUEST_METHOD E:\wedding\ThinkPHP\Library\Think\App.class.php 第 30 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
